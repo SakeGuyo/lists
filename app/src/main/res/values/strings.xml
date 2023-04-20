@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Afternoon Simple list</string>
+    <string-array name="contacts">
+        <item>Moses</item>
+        <item>June</item>
+        <item>Shemaiya</item>
+        <item>Jesse</item>
+        <item>Francis</item>
+        <item>Sake</item>
+        <item>Irene</item>
+        <item>Martha</item>
+        <item>Baraka</item>
+        <item>Isika</item>
+    </string-array>
+</resources>
